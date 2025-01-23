@@ -1,0 +1,1 @@
+More and more Ethereum-Foundations pop up. So this is a place to list them like we list chains in ethereum-lists/chains.
